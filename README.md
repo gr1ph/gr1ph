@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gr1ph
-- 📄 Languages I know: Python, Javascript, HTML, CSS, and Batch
-- 🌱 I’m currently learning: C++, C#
+- 📄 Languages I know: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Powershell
+- 🌱 I’m currently learning: C++, C#, Assembly, Wolfram
 - 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
