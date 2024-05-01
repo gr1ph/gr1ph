@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gr1ph
-- 📄 Languages I know: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Powershell
+- 📄 Languages I know: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Assembly, Powershell
 - 🌱 I’m currently learning: C++, C#, Assembly, Wolfram, and Solidity
 - 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: 
