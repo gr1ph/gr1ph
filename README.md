@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gr1ph
 - 📄 Languages I know: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Powershell
 - 🌱 I’m currently learning: C++, C#, Assembly, Wolfram, Assembly, Solidity
-- 📄 Languages I have worked with: C++, C#, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, and Kotlin.
+- 📄 Languages I have worked with: C++, C#, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, and Swift.
 - 😄 Pronouns: he/him
 
 <!---
