@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gr1ph
 - 📄 Languages I know: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Powershell
 - 🌱 I’m currently learning: C++, C#, Assembly, Wolfram, Solidity
-- 📄 Languages I have worked with: C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, and Wolfram (Mathmatica).
+- 📄 Languages I have worked with: C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), and ASM.
 - 😄 Pronouns: he/him
 - All of my repositories are private right now, although I may be doing a mass publication soon.
 - Current Repositories (5/12/24): 243
