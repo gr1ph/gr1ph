@@ -1,7 +1,22 @@
-> 👋 Hi, I’m @gr1ph
-> 📄 Languages I'm experienced with: Python, Javascript, HTML, CSS, Batch, Ruby, Bash, Powershell
-> 📄 Languages I have worked with: C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), ASM, Astro, SCSS, Django, Objective-C++.
-> Pronouns: he/him
+👋 Hi, I’m @gr1ph
+
+<details>
+
+<summary>Programming Experience</summary>
+
+- Specializations: Javascript, HTML, CSS, Javascript
+
+- Years of experience:
+- 5-7
+
+- Languages I have worked with:
+- C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), ASM, Astro, SCSS, Django, Objective-C++, Discord.js, Mermaid.js, and much more.
+
+</details>
+
+- Pronouns: he/him
+
+> [!IMPORTANT]
 > All of my repositories are private right now, although I may be doing a mass publication soon.
 > Current Repositories (5/21/24): 300
 
