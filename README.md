@@ -4,7 +4,7 @@
 
 <summary>Programming Experience</summary>
 
-- Specializations: Javascript, HTML, CSS, Python
+- Specializations: Javascript, Python, Batch, and Bash
 
 - Years of experience:
   - 4
