@@ -9,7 +9,7 @@
 - Favorite Programming Languages: Python and Angular/Typescript
 
 - Years of experience:
-  - 4
+  - 5
 
 - Languages I have worked with:
   - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, and Mojo.
