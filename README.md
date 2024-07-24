@@ -4,6 +4,9 @@
 
 
 - 💬 Ask me about **Python, Javascript/Typescript, and Batch**
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gr1ph&theme=gotham&hide_border=true)
 
