@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @gr1ph
 
-### For hire!
+### Work wanted!
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
