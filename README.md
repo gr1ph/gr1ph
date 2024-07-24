@@ -1,8 +1,28 @@
+👋 Hi, I’m @gr1ph
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gr1ph&theme=gotham&hide_border=true)
+
+<details>
+
+<summary>Other & Programming Experience (Text)</summary>
+
+- Pronouns: he/him
+  
+- Specializations: Javascript, Python, Batch, and Bash
+
+- Favorite Programming Languages: Python and Angular/Typescript
+
+- Years of experience:
+  - 5
+
+- Languages I have worked with (Some very little some a lot):
+  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), and PHP.
+
+</details>
 
 > [!IMPORTANT]
 > Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 541
