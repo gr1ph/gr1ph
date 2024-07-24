@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm gr1ph</h1>
 <h3 align="center">A passionate full-stack developer from America</h3>
 
+
+
 - 💬 Ask me about **Python, Javascript/Typescript, and Batch**
-- 
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gr1ph&theme=gotham&hide_border=true)
 
 > [!IMPORTANT]
