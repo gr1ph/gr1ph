@@ -20,7 +20,9 @@
   - 5
 
 - Languages I have worked with (Some very little some a lot):
-  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), and PHP.
+  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), PHP, Vue.js, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), .
+  - Other Skills:
+    - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting.
 
 </details>
 
