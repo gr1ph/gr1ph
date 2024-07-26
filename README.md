@@ -21,7 +21,7 @@
 - Years of experience:
   - 5
 
-- Certifications
+- Certifications (For further verification contact me via my discord linked in the "Connect with me" section)
   - Machine Learning in Python provided by freecodecamp.org - Projects not fully completed, classes are fully completed.
 
 - Languages I have worked with (Some very little some a lot):
