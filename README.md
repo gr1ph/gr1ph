@@ -25,7 +25,7 @@
   - Machine Learning in Python provided by freecodecamp.org - Projects not fully completed, classes are fully completed.
 
 - Languages I have worked with (Some very little some a lot):
-  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), PHP, Vue.js, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), Electron.js, Tauri, MatLab, Haskell, Erlang, Elixir, and Cypher for Neo4j.
+  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, HTML, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), PHP, Vue.js, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), Electron.js, Tauri, MatLab, Haskell, Erlang, Elixir, Cypher for Neo4j, and Pascal.
   - Other Skills:
     - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, and Keras :).
 
