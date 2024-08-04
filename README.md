@@ -21,6 +21,10 @@
 
 </details>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 > [!IMPORTANT]
 > Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 541
 
