@@ -36,10 +36,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/gr1ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gr1ph" height="30" width="40" /></a>
-<a href="https://codesandbox.com/gr1ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gr1ph" height="30" width="40" /></a>
-<a href="https://kaggle.com/gr1phix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gr1phix" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gr1ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gr1ph" height="30" width="40" /></a>
 <a href="https://discord.gg/lightinglab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lightinglab" height="30" width="40" /></a>
 </p>
 
