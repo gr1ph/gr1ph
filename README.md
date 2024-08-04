@@ -299,4 +299,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
 Please click on "Other & Programming Experience" for a accurate list.
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1d2DpJ76d2RLs4ANPit7AG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+###
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31axltfhmwuawafmwbjyq4cecafq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+###
