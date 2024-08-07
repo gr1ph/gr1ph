@@ -14,10 +14,13 @@
 - Certifications (For further verification contact me via my discord linked in the "Connect with me" section)
   - Machine Learning in Python provided by freecodecamp.org - Projects not fully completed, classes are fully completed.
 
+> [!IMPORTANT]
+> I do not fully know and completely specialize in all of these skills, these are just things i've explored, I like keeping extensive documentation of these things.
+
 - Languages I have worked with (Some very little some a lot):
-  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, SQLite, TCL/Tk (Tool Command Language), PHP, Vue.js, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), Electron.js, Tauri, MatLab, Haskell, Erlang, Elixir, Cypher for Neo4j, Pascal, and Solid.
+  - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, TCL/Tk (Tool Command Language), PHP, Vue.js, Electron.js, Tauri, MatLab, SQL, Haskell, Erlang, Elixir, Cypher for Neo4j, Pascal, and Solid.
   - Other Skills:
-    - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, and Keras :).
+    - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, Keras, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), SQLite, .
 
 </details>
 
@@ -54,6 +57,10 @@
 <p align="left"></p>
 
 ###
+
+
+> [!IMPORTANT]
+> I do not fully know and completely specialize in all of these skills, these are just things i've explored, I like keeping extensive documentation of these things.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
