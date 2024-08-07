@@ -53,11 +53,19 @@
 </div>
 
 ###
+<p align="center">
+  ↓ Main Skills ↓
+</p>
 
-<p align="left"></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,css,js,nodejs,expressjs" />
+  </a>
+</p>
 
-###
-
+<p align="center">
+  ↓ Explored Skills ↓
+</p>
 
 > [!IMPORTANT]
 > I do not fully know and completely specialize in all of these skills, these are just things i've explored, I like keeping extensive documentation of these things.
