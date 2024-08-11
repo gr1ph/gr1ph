@@ -27,7 +27,7 @@
 # Private Repository Stats ↓
 
 <picture>
-  <img src="/github_metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 # Private Repository Stats ↑
