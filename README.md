@@ -20,7 +20,7 @@
 - Languages I have worked with (Some very little some a lot):
   - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, CSS, Scala, Python, ReactJS, Node.js, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, TCL/Tk (Tool Command Language), PHP, Vue.js, Electron.js, Tauri, MatLab, SQL, Haskell, Erlang, Elixir, Cypher for Neo4j, Pascal, Solid, Gnuplot, Pam, and Ceylon.
   - Other Skills:
-    - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, Keras, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), SQLite.
+    - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, Keras, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), SQLite, Onshape (Cloud Based CAD), KiCad, Eagle, EasyEDA, Smartdraw.
 
 </details>
 
