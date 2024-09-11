@@ -33,7 +33,7 @@
 # Private Repository Stats ↑
 
 > [!IMPORTANT]
-> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 701
+> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 1115
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gr1ph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
