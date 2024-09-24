@@ -6,7 +6,7 @@
   
 - Specializations: Javascript, Python, Batch, and Bash
 
-- Favorite Programming Languages: Javascript specifically Node.js
+- Favorite Programming Languages: Javascript and C
 
 - Years of experience:
   - 5
