@@ -1,3 +1,10 @@
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+> [!IMPORTANT]
+> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 1115
+
 Programming Experience
 - Pronouns: he/him
   
@@ -15,17 +22,6 @@ Programming Experience
   - C++, C#, C, Assembly, Ruby, Bash, Powershell, Javascript, Python, CSS, Scala, Python, YAML, Kotlin, Solidity, Swift, GDScript, Batch, Wolfram (Mathmatica), Astro, SCSS, Django, Objective-C++, Angular/Typescript, Typescript, Gleam, Lobster, Onyx, Mojo, Java, JSON, TCL/Tk (Tool Command Language), PHP, Vue.js, Electron.js, Tauri, MatLab, SQL, Haskell, Erlang, Elixir, Cypher for Neo4j, Pascal, Solid, Gnuplot, Pam, Ceylon, Io, Ada, Pony, F#.
   - Other Skills:
     - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, Keras, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), SQLite, Onshape (Cloud Based CAD), KiCad, Eagle, EasyEDA, Smartdraw, Nuxt, Next.js, Processing, p5.js, React, Node.js, Vite.
-
-# Private Repository Stats ↓
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-# Private Repository Stats ↑
-
-> [!IMPORTANT]
-> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 1115
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gr1ph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
