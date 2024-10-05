@@ -23,16 +23,9 @@ Programming Experience
   - Other Skills:
     - Privilege Escalation, SQL Injection, Malware Analysis, GraphQL, Cloud Networking, Network Troubleshooting, Network Security, Bug Bounting/Hunting, Tensorflow, Pandas, Pytorch, D3.js, Chart.js, GTK, Firebase, Express.js, Kubernetes, Docker, Canvas.js, Jasmine, Ember.js, Git, Oracle Cloud, Docker Server Deploying, AWS, Google Cloud, Microsoft Azura, Android, Keras, MongoDB, MariaDB, Cassandra, Redis, Amazon Neptune, Neo4j, NuoDB, PostgreSQL, Amazon Aurora (Postgre and MySQL), AuraDB (Basically same as NeoDB), SQLite, Onshape (Cloud Based CAD), KiCad, Eagle, EasyEDA, Smartdraw, Nuxt, Next.js, Processing, p5.js, React, Node.js, Vite.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gr1ph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1ph&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gr1ph&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gr1ph&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gr1ph&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<br>
 
-###
-###
+![gr1ph's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1ph&theme=graywhite&hide_border=true)
 
 <div align="center">
   <a href="https://discord.gg/lightninglab" target="_blank">
@@ -50,11 +43,3 @@ Programming Experience
     <img src="https://skillicons.dev/icons?i=python,css,js,nodejs,expressjs" />
   </a>
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31axltfhmwuawafmwbjyq4cecafq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
-
-
-
-###
