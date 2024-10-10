@@ -3,7 +3,7 @@
 </picture>
 
 > [!IMPORTANT]
-> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 1115
+> Currently all my repositories are private except for a few. However in the future I will most likely publicize most of them. Current repository count: 2177
 
 Programming Experience
 - Pronouns: he/him
