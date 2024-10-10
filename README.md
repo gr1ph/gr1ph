@@ -10,7 +10,7 @@ Programming Experience
   
 - Specializations: Javascript, Python, Batch, and Bash
 
-- Favorite Programming Languages: Javascript and C
+- Favorite Programming Languages: C and Rust
 
 - Years of experience:
   - 5
