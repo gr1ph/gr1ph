@@ -8,7 +8,7 @@
 Programming Experience
 - Pronouns: he/him
   
-- Specializations: Javascript, Python, Batch, and Bash
+- Specializations: Javascript, C, Rust, Bash
 
 - Favorite Programming Languages: C and Rust
 
