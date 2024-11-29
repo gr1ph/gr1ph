@@ -1,1 +1,1 @@
-Hi I'm gr1ph, I love C and Rust and primarly focus on C++, Rust, C, and Javascript but I love pursuing many different languages with over 60+ explored languages. Currently, all my repositories are private and as of 11/28/2024 I have about 3,800 repos.
+Hi I'm gr1ph, I love C and Rust and primarly focus on C++, Rust, C, and Javascript but I love pursuing many different languages with over 60+ explored languages. Currently, all my repositories are private and as of 11/28/2024, I have about 3,800 repos.
